@@ -1,0 +1,8 @@
+name: AcidIslandX
+api: 5.0.0
+version: 1.0.0
+main: Noob\AcidIsland\AcidIsland
+author: NoobMCGaming
+permissions:
+  acidisland.cmd:
+    default: true
